@@ -1,24 +1,16 @@
-# README
+# Appointment App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Super easy minimalistic app to create appointments.
 
-Things you may want to cover:
+![Zrzut ekranu 2024-05-20 o 17 42 49](https://github.com/Robgra13/appointment_app/assets/64651524/b723578d-da27-44fa-8e1a-267bcd2517d5)
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
 
-* Database creation
+*  Create a room with it's capacity
 
-* Database initialization
+*  Create a booking for chosen room
 
-* How to run the test suite
+*  Implemented funcionality to prevent overlaping of bookings
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*  Enter a room and see current bookings 
